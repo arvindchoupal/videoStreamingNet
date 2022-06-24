@@ -1,0 +1,1 @@
+export const Server = 'https://7738-2409-4055-2e19-db05-a4b5-6654-b200-e08e.ngrok.io'

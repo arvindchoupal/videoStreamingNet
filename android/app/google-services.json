@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "318734224383",
+    "project_id": "video-streaming-a5af1",
+    "storage_bucket": "video-streaming-a5af1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318734224383:android:5f48e70a86554af2f0b5ca",
+        "android_client_info": {
+          "package_name": "com.videostreamingnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318734224383-v52jt07mrjt61c33ueiec2huopnset45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.videostreamingnet",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "318734224383-r0hldv5vcrsqmnq26hmcp6llfbjpullp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2v7sRlypWE-Nkvd8WDPThKd_GPsBoY3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318734224383-r0hldv5vcrsqmnq26hmcp6llfbjpullp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
